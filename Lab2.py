@@ -1,0 +1,1 @@
+print("ET075 (DevOpsfor AIoT) - Lab 2 - Introduction to Python")
